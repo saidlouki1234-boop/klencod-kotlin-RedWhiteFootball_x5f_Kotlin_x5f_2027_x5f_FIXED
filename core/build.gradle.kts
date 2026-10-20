@@ -1,0 +1,5 @@
+
+plugins { kotlin("jvm") }
+dependencies {
+    api("com.badlogicgames.gdx:gdx:1.12.1")
+}
